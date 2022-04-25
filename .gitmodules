@@ -1,0 +1,6 @@
+[submodule "SPOTAPI"]
+	path = SPOTAPI
+	url = https://github.com/JonathanMbt/SPOTAPI.git
+[submodule "SPOTFRONT"]
+	path = SPOTFRONT
+	url = https://github.com/JonathanMbt/SPOTFRONT.git
