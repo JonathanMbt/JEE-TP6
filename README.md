@@ -10,4 +10,4 @@ git submodule update
 ```
 
 
-© Jonathan Mabit - Niels Petersen 2021
+© Jonathan Mabit - Niels Petersen 2022
